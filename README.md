@@ -1,4 +1,9 @@
-# 🛡️ Alertes Arnaques - Gabon 🇬🇦
+# <br>
+<div align="center">
+  <h2 style="color: #00FFFF;">🛡️ Salut le Gabon, je deviens codeur ! 🛡️</h2>
+  <p><i>Futur Architecte en Cybersécurité</i></p>
+</div>
+🛡️ Alertes Arnaques - Gabon 🇬🇦
 
 Bienvenue ! Ici, je recense les arnaques au Gabon pour nous protéger.
 
